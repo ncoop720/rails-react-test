@@ -17,7 +17,6 @@ gem 'uglifier', '>= 1.3.0'
 # gem 'mini_racer', platforms: :ruby
 
 # My Added Gems
-gem 'webpacker'
 gem 'react-rails'
 
 # Use CoffeeScript for .coffee assets and views
